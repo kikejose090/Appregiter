@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122232684512",
+    "project_id": "cursoapp-72708",
+    "storage_bucket": "cursoapp-72708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122232684512:android:4bd8fd420ff6ddbcf8b585",
+        "android_client_info": {
+          "package_name": "com.enrique.cursoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwb7MtizS4JbqlvVMIuDwDvZMZRpEqPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
